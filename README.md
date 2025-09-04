@@ -4,7 +4,7 @@ A project built with **HTML & CSS** as part of the freeCodeCamp Responsive Web D
 This form demonstrates how to collect user input with labels, inputs, checkboxes, radio buttons, and a submit button.
 
 ##  Live Demo
-👉 [View the project here](https://vladimirovatsvetelina49-cpu.github.io/colored-markers/)
+👉 [View the project here]( https://vladimirovatsvetelina49-cpu.github.io/registration-form/)
 
 ## What I Practiced
 - HTML form structure (`<form>`, `<label>`, `<input>`, `<select>`, `<textarea>`)  
