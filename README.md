@@ -1,6 +1,6 @@
 #  Registration Form
 
-A project built with **HTML & CSS** as part of the freeCodeCamp Responsive Web Design certification.  
+A project built with **HTML & CSS** as part of the freeCodeCamp Responsive Web Design certification.
 This form demonstrates how to collect user input with labels, inputs, checkboxes, radio buttons, and a submit button.
 
 ##  Live Demo
